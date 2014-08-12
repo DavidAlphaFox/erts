@@ -78,7 +78,7 @@ IMMD1的标签有（掩码长度为4位,掩码0xF）：
 IMMD2的标签有（掩码长度为6位，掩码0x3F）：
 
 0xB ATOM	
-0x1B catch
+0x1B catch	
 0x3B NIL
 
 	ATOM的Eterm表示
